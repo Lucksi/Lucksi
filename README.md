@@ -4,7 +4,7 @@
 
 <p align = "center">
 <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=Lucksi&show_icons=true&theme=radical" width= "433px">
-<img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucksi&layout=compact&langs_count=10&theme=radical">
+<img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucksi&layout=compact&theme=radical">
 </p>
 
 ## GitHub Trophies:
