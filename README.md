@@ -3,8 +3,8 @@
 ## Github stats:
 
 <p align = "center">
-<img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=Lucksi&show_icons=true&theme=radical" width= "433px">
-<img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucksi&layout=compact&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api?username=Lucksi&show_icons=true&theme=radical" width= "433px">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucksi&layout=compact&theme=radical">
 </p>
 
 ## GitHub Trophies:
