@@ -1,4 +1,4 @@
-### Hi and welcome to my github profile here you can find all my repos, i hope you will like my works :)
+### Hi and welcome to my github profile here you can find all my repositories, i hope you will like my works :)
 
 ## Github stats:
 
