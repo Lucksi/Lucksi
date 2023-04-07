@@ -16,6 +16,19 @@
 <br>
 <p align = "center">
 
+## My Stats:
+<br>
+<p align = "center">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucksi&theme=radical">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucksi&theme=radical">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucksi&theme=radical">
+
+</p>
+<br>
+
+<br>
+<p align = "center">
+
 ## You can Find me On:
 <br>
 <a href = "https://github.com/Lucksi"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
