@@ -10,7 +10,7 @@
 ## GitHub Trophies:
 <br>
 <p align = "center">
-<img src = "https://github-profile-trophy.vercel.app/?username=Lucksi&theme=radical&row=3&column=3">
+<img src = "https://github-profile-trophy.vercel.app/?username=Lucksi&theme=radical&row=3&column=3" width = "340px">
 </p>
 
 <br>
@@ -19,12 +19,13 @@
 ## My Stats:
 <br>
 <p align = "center">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucksi&theme=radical" width = "300px">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucksi&theme=radical" width = "300px">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucksi&theme=radical" width = "300px">
-
-</p>
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucksi&theme=radical" width = "340px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucksi&theme=radical" width = "340px">
 <br>
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucksi&theme=radical" width = "340px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucksi&theme=radical&utcOffset=2" width = "340px">
+<br>
+</p>
 
 <br>
 <p align = "center">
