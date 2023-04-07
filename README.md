@@ -19,9 +19,9 @@
 ## My Stats:
 <br>
 <p align = "center">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucksi&theme=radical">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucksi&theme=radical">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucksi&theme=radical">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucksi&theme=radical" width = "300px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucksi&theme=radical" width = "300px">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucksi&theme=radical" width = "300px">
 
 </p>
 <br>
