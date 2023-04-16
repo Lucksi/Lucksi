@@ -1,4 +1,5 @@
-### Hi there my name is Luca and welcome to my github profile here you can find all my repositories, i hope you will like my works :)
+### Hi there my name is Luca and welcome to my github profile. 
+### Here you can find all my repositories, i hope you will like my works :)
 
 ## Github stats:
 
