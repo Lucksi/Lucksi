@@ -1,4 +1,4 @@
-### Hi and welcome to my github profile here you can find all my repositories, i hope you will like my works :)
+### Hi there my name is Luca and welcome to my github profile here you can find all my repositories, i hope you will like my works :)
 
 ## Github stats:
 
@@ -41,3 +41,7 @@
 <a href = "mailto:lukege287@gmail.com">
 <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+  
+---
+  
+<img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=0">
