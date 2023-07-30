@@ -16,7 +16,7 @@
 ## 🏆 GitHub Trophies:
 <br>
 <p align = "center">
-<img src = "https://github-profile-trophy.vercel.app/?username=Lucksi&theme=radical&row=3&column=3">
+<img src = "https://github-profile-trophy.vercel.app/?username=Lucksi&theme=radical&row=2&column=3">
 </p>
 <p align = "center">
 
