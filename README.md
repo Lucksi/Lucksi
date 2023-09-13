@@ -41,6 +41,7 @@
 <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href = "mailto:lukege287@gmail.com">
 <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href = "https://discordapp.com/users/534342234800128001">
-<img src ="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
+
+## ℹ️ Other Social:
+### Discord: lucksi_
