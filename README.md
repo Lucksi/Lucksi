@@ -1,6 +1,14 @@
 ### Hi there my name is Luca and welcome to my github profile. 
 ### Here you can find all my repositories, i hope you will like my works :)
 
+## :star: My Interests:
+### :green_book: MANGA
+### :massage: PSYCOLOGY
+### ❓ PHILOSOPHY
+### ☯ ANIME
+
+<hr>
+
 <img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" align = "right" height="30px">
 
 ## 📊 Github stats:
