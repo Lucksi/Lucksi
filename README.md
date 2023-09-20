@@ -2,10 +2,9 @@
 ### Here you can find all my repositories, i hope you will like my works :)
 
 ## :star: My Interests:
-### :green_book: Manga
+### :green_book: Manga/Anime
 ### :massage: Psycology
 ### ❓ Philosophy
-### ☯ Anime
 
 <hr>
 
