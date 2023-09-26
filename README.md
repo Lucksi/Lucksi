@@ -2,12 +2,6 @@
 ### Here you can find all my repositories, i hope you will like my works :)
 <img src = "https://github-widgetbox.vercel.app/api/profile?username=Lucksi&data=followers,stars,repositories,commits&theme=darkmode">
 
-
-## :star: My Interests:
-### :green_book: Manga/Anime
-### :massage: Psycology
-### ❓ Philosophy
-
 <hr>
 
 <img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" align = "right" height="30px">
