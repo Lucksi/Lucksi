@@ -1,5 +1,7 @@
 ### Hi there my name is Luca and welcome to my github profile. 
 ### Here you can find all my repositories, i hope you will like my works :)
+<img src = "https://github-widgetbox.vercel.app/api/profile?username=Lucksi&data=followers,stars,repositories,commits&theme=darkmode">
+
 
 ## :star: My Interests:
 ### :green_book: Manga/Anime
