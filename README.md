@@ -27,6 +27,15 @@
 <p align = "center">
 </p>
 <details>
+  <summary>💠 Badges</summary>
+  <br>
+<p align = "center">
+<a href = "https://www.credly.com/badges/e39e3365-e89f-4da6-ab09-3fe2e10a3ff8"><img src = "https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height = "100px" width = "auto"></a>
+<a href = "https://www.credly.com/badges/6648b2e8-bbab-4a81-9678-ffb8db47d177"><img src = "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"  height = "100px" width = "auto"></a>
+<a href = "https://www.credly.com/badges/bfdf8298-70ab-4fc0-9cb1-496c9cb2cb6a"><img src = "https://images.credly.com/size/340x340/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" height = "100px" width = "auto"></a>
+</p>
+</details>
+<details>
   <summary>📈 My Stats:</summary>
   <br>
   <p align = "center">
