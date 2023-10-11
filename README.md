@@ -2,8 +2,7 @@
 ### Here you can find all my repositories, i hope you will like my works :)
 <img src = "https://github-widgetbox.vercel.app/api/profile?username=Lucksi&data=followers,stars,repositories,commits&theme=radical">
 <hr>
-<img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12"  height="28px">
-<hr>
+<img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" align = "right"  height="28px">
 <details>
   <summary>📊 Github stats</summary>
   <br>
