@@ -2,10 +2,10 @@
 ### Here you can find all my repositories, i hope you will like my works :)
 <img src = "https://github-widgetbox.vercel.app/api/profile?username=Lucksi&data=followers,stars,repositories,commits&theme=radical">
 <hr>
-<img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" align = "right"  height="28px">
+<img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" align = "right"  height="30px">
 <details>
   <summary>📊 Github stats</summary>
-  <br>
+  <hr>
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Lucksi&show_icons=true&theme=radical" width= "433px">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucksi&layout=compact&theme=radical&langs_count=8">
@@ -16,16 +16,14 @@
 </details>
 <details>
   <summary>🏆 Github Trophies</summary>
-  <br>
+  <hr>
 <p align = "center">
 <img src = "https://github-profile-trophy.vercel.app/?username=Lucksi&theme=radical&row=2&column=3">
 </p>
 </details>
-<p align = "center">
-</p>
 <details>
   <summary>💠 Badges</summary>
-  <br>
+  <hr>
 <p align = "center">
 <a href = "https://www.credly.com/badges/e39e3365-e89f-4da6-ab09-3fe2e10a3ff8"><img src = "https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height = "100px" width = "auto"></a>
 <a href = "https://www.credly.com/badges/6648b2e8-bbab-4a81-9678-ffb8db47d177"><img src = "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"  height = "100px" width = "auto"></a>
@@ -34,7 +32,7 @@
 </details>
 <details>
   <summary>📈 My Stats:</summary>
-  <br>
+  <hr>
   <p align = "center">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucksi&theme=radical" width = "280px">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucksi&theme=radical" width = "280px">
@@ -45,9 +43,8 @@
 </details>
 <details>
   <summary>ℹ️ You can find me on</summary>
-  <br>
+  <hr>
     <p align = "center">
-        <br>
         <a href = "https://github.com/Lucksi"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
         <a href = "https://instagram.com/lucks_022"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
         <a href = "https://www.linkedin.com/in/lucksi">
