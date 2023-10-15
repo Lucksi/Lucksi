@@ -32,7 +32,7 @@
 </p>
 </details>
 <details>
-  <summary>📈 My Stats:</summary>
+  <summary>📈 My Stats</summary>
   <hr>
   <p align = "center">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucksi&theme=radical" width = "280px">
