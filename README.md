@@ -1,6 +1,7 @@
 ***Hi there my name is Luca and welcome to my github profile.***
 <br><br>
 ***Here you can find all my repositories, i hope you will like my works :)***
+<hr>
 <img src = "https://github-widgetbox.vercel.app/api/profile?username=Lucksi&data=followers,stars,repositories,commits&theme=radical">
 <hr>
 <img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" align = "right"  height="23px">
