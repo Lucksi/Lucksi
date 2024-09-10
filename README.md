@@ -4,7 +4,9 @@
 <hr>
 <img src = "https://github-widgetbox.vercel.app/api/profile?username=Lucksi&data=followers,stars,repositories,commits&theme=radical">
 <hr>
-<img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" align = "right"  height="23px">
+<p align = "right">
+  <img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" height="23px">
+</p>
 <details>
   <summary>📊 Github stats</summary>
   <hr>
