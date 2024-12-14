@@ -2,10 +2,9 @@
 <br><br>
 ***Here you can find all my repositories, i hope you will like my works :)***
 <hr>
-<img src = "https://github-widgetbox.vercel.app/api/profile?username=Lucksi&data=followers,stars,repositories,commits&theme=radical">
-<hr>
-<p align = "right">
-  <img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" height="23px">
+<p align = "left">
+  <img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" height="23px" align = "right">
+  <img src = "https://img.shields.io/github/followers/Lucksi">
 </p>
 <details>
   <summary>📊 Github stats</summary>
