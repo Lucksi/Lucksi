@@ -3,7 +3,7 @@
 ***Here you can find all my repositories, i hope you will like my works :)***
 <hr>
 <p align = "left">
-  <img src = "https://visitcount.itsvg.in/api?id=Lucksi&icon=1&color=12" height="23px" align = "right">
+  <img src = "https://komarev.com/ghpvc/?username=Lucksi&color=blue" height="23px" align = "right">
   <img src = "https://img.shields.io/github/followers/Lucksi">
   <img src = "https://img.shields.io/github/stars/Lucksi">
 </p>
